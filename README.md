@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prashantGit2 
 - My name is Prashant Sharma
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Web Development(Full Stack)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development(Full Stack) and Data science
+- 💞️ I’m looking to collaborate on Backend development
 - 📫 Not much active on social , still on instagram.com => @sinugrover
 
 <!---
